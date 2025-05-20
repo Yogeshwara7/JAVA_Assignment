@@ -1,0 +1,18 @@
+
+import java.util.ArrayList;
+import java.util.Collections;
+
+public class SortColor {
+    public static void main(String[] args) {
+        ArrayList<String> colors = new ArrayList<>();
+        colors.add("Orange");
+        colors.add("Maroon");
+        colors.add("Cyan");
+        colors.add("Turquoise");
+        colors.add("Amber");
+
+        Collections.sort(colors);
+
+        System.out.println("Sorted color list: " + colors);
+    }
+}
