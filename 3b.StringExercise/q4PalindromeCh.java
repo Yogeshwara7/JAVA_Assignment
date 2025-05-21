@@ -1,4 +1,4 @@
-public class PalindromeChecker {
+public class q4PalindromeCh {
 
     // User-defined function to check if a string is a palindrome (ignoring case and punctuation)
     public static boolean checkPalindrome(String text) {
@@ -15,11 +15,16 @@ public class PalindromeChecker {
     }
 
     public static void main(String[] args) {
-        // Input string
-        String testString = "A man, a plan, a canal, Panama";
+        // Palindrome test case
+        String testPalindrome = "A man, a plan, a canal, Panama";
+        System.out.println("Original String: " + testPalindrome);
+        System.out.println("Is Palindrome? " + checkPalindrome(testPalindrome));
 
-        // Output results
-        System.out.println("Original String: " + testString);
-        System.out.println("Is Palindrome? " + checkPalindrome(testString));
+        System.out.println();
+
+        // Not a palindrome test case
+        String testNonPalindrome = "Hello, World!";
+        System.out.println("Original String: " + testNonPalindrome);
+        System.out.println("Is Palindrome? " + checkPalindrome(testNonPalindrome));
     }
 }

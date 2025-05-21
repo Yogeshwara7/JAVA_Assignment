@@ -4,7 +4,7 @@ reverseString().
  */
 
 
-public class StringReverser {
+public class q3StringReverser {
 
     // User-defined function to reverse a string
     public static String reverseText(String input) {
