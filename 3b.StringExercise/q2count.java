@@ -1,4 +1,10 @@
-public class q1count {
+/*
+ * Write a Java Program for Counting how many times a substring appears in a main string
+using user defined function countOccurrences()
+ */
+
+
+public class q2count {
 
     // User-defined function to count occurrences of a substring
     public static int countMatches(String text, String keyword) {
