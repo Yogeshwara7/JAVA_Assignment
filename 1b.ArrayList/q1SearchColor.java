@@ -4,7 +4,7 @@ the color "Red" is available or not */
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class SearchColor {
+public class q1SearchColor {
     public static void main(String[] args) {
         ArrayList<String> colors = new ArrayList<>(Arrays.asList(
             "Blue", "Green", "Red", "Yellow", "Black", 

@@ -5,7 +5,7 @@ elements 1st and 2nd from the ArrayList object by using SubList() */
 import java.util.ArrayList;
 import java.util.List;
 
-public class ExtractColor {
+public class q5ExtractColor {
 
     public static void main(String[] args) {
         // Create an ArrayList of colors

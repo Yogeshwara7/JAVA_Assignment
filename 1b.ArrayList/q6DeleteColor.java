@@ -8,7 +8,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
-public class DeleteColor {
+public class q6DeleteColor {
     public static void main(String[] args) {
         // 1. Initialize list via the List interface
         List<String> colors = new ArrayList<>(Arrays.asList(

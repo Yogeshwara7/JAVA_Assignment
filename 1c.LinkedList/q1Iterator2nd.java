@@ -4,7 +4,7 @@ specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj
 import java.util.LinkedList;
 import java.util.ListIterator;
 
-public class Iterator2nd {
+public class q1Iterator2nd {
     public static void main(String[] args) {
         // 1. Initialize LinkedList with color names
         LinkedList<String> colors = new LinkedList<>();

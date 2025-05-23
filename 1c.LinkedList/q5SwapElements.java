@@ -6,7 +6,7 @@ Collections.swap(l_list, 0, 2)) */
 import java.util.LinkedList;
 import java.util.Collections;
 
-public class SwapElements {
+public class q5SwapElements {
     public static void main(String[] args) {
         // Create a LinkedList of fruits
         LinkedList<String> fruits = new LinkedList<>();

@@ -5,7 +5,7 @@
 import java.util.LinkedList;
 import java.util.Iterator;
 
-public class ReverseIterator {
+public class q2ReverseIterator {
     public static void main(String[] args) {
         LinkedList<String> colors = new LinkedList<>();
         colors.add("Orange");

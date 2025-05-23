@@ -5,7 +5,7 @@ using Collections.sort( ArrayListObj) */
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class SortColor {
+public class q4SortColor {
     public static void main(String[] args) {
         ArrayList<String> colors = new ArrayList<>();
         colors.add("Orange");

@@ -3,7 +3,7 @@
 
 import java.util.ArrayList;
 
-public class RemoveColor {
+public class q2RemoveColor {
     public static void main(String[] args) {
         ArrayList<String> colors = new ArrayList<>();
         colors.add("Orange");

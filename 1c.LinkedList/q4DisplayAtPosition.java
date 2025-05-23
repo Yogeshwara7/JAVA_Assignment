@@ -4,7 +4,7 @@ l_listobj.get(p) )*/
 
 import java.util.LinkedList;
 
-public class DisplayAtPosition {
+public class q4DisplayAtPosition {
     public static void main(String[] args) {
         LinkedList<String> colors = new LinkedList<>();
         colors.add("Red");
