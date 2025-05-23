@@ -1,4 +1,4 @@
-1a.ListOperation--https://github.com/Yogeshwara7/JAVA_Assignment/blob/main/output/1a.ListOperations.png?raw=true
+1a.ListOperation--https://github.com/Yogeshwara7/JAVA_Assignment/blob/main/output/1a.ListOperations.png
 
 1bq1.SearchColor--https://github.com/Yogeshwara7/JAVA_Assignment/blob/main/output/1bq1.SearchColor.png?raw=true
 
